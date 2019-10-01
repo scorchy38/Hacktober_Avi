@@ -10,6 +10,7 @@ for(i=0;i<12;i++)
 a[i]=s.nextInt();
 j=a.length;
 for(i=0;i<6;i++)
+  //kkkk
 {
 k=a[i];
 a[i]=a[j-i-1];
