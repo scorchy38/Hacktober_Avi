@@ -2,6 +2,7 @@ import java.util.Scanner;
 class Prog87
 {
 public static void main(String ar[])
+  // helllllcwdvoafjdzbj
 {
 int a,b,i,j,sum=0;
 Scanner s=new Scanner(System.in);
