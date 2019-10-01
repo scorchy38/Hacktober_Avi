@@ -7,6 +7,7 @@ int i,pos,j;
 int a[]=new int[10];
 Scanner s=new Scanner(System.in);
 System.out.println("Enter 10 numbers");
+  // fhgh
 for(i=0;i<10;i++)
 a[i]=s.nextInt();
 System.out.println("Enter the position which is to be deleted");
